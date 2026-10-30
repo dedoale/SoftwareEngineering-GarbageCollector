@@ -1,9 +1,15 @@
 # SoftwareEngineering-GarbageCollector
 Repository per il progetto di Ingegneria del Software A.A. 2025-2026 di dedoale e Batteriche.
 
+**Progetto finale:**
+`Deliverable_Template_25_26_Finale.pdf`
+
+Nella cartella `Diagrammi` ci sono i codici sorgenti .puml, i file .drawio e i .png di tutti i diagrammi realizzati per il progetto.
+
 ---
 
-## Progetto 1: Gestione rifiuti e raccolta differenziata (V2)
+## Traccia scelta:
+#### Progetto 1: Gestione rifiuti e raccolta differenziata (V2)
 
 Il progetto prevede la realizzazione di un sistema informativo per la gestione dei rifiuti urbani e
 della raccolta differenziata, rivolto sia ai cittadini sia agli enti comunali. Nasce dall’esigenza
