@@ -1,5 +1,5 @@
 # SoftwareEngineering-GarbageCollector
-Repository per il progetto di Ingegneria del Software A.A. 2025-2026 di dedoale e Batteriche.
+Repository per il progetto di Ingegneria del Software A.A. 2025-2026 di dedoale e batteriche.
 
 **Progetto finale:**
 `Deliverable_Template_25_26_Finale.pdf`
